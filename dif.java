@@ -3,6 +3,6 @@ public class dif{
     {
         int a=10,b=20,sum;
         sum = a-b;
-        System.out.println("dif is"+sum);
+        System.out.println("dif  sum is"+sum);
     }
 }
